@@ -28,8 +28,6 @@ markdown
 
 { "customer_code": "string" }
 
-markdown
-
 **Erro:** 400 Bad Request se `customer_code` estiver ausente ou inválido.
 
 ### Buscar Cliente

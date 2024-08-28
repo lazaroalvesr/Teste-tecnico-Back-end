@@ -22,8 +22,6 @@ Esta API gerencia medições de consumo de água e gás usando IA da Gemini.
 
 { "customer_code": "string" }
 
-markdown
-
 **Resposta Sucesso:**
 
 { "customer_code": "string" }
